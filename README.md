@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/amanmakwa/amanmakwa/blob/main/Aman%20makwa.gif)
 <h1 align="center">Hi 👋, I'm Aman Makwa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
